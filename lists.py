@@ -10,3 +10,7 @@ a.append("Emmanuel")
 a.append("Olusegun")
 a.append("Beatrice")
 a.append("Kendall")
+
+a.pop()
+
+print(f"Removing last item using pop {a}")
